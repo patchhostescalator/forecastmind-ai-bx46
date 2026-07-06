@@ -1,4 +1,4 @@
-# 
+# Elite ForecastMind script. Baixe e instale com suporte comunitário e binários verificados — rápido, seguro e fácil de usar.
 
 
 
